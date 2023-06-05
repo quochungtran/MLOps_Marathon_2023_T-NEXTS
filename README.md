@@ -1,9 +1,9 @@
 # MLOps Marathon 2023
 
 ## Team 
-Name : T-NESTS 
+Name : T-NEXTS 
 
-Welcome to the T-NESTS team's repository for the MLOps Marathon 2023! This repository contains the code and resources used for our participation in the event. Below, you will find an overview of the project, instructions for setting up and running the code, and information about our team members.
+Welcome to the T-NEXTS team's repository for the MLOps Marathon 2023! This repository contains the code and resources used for our participation in the event. Below, you will find an overview of the project, instructions for setting up and running the code, and information about our team members.
 
 
 ## Support Documentation
