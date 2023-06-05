@@ -5,6 +5,12 @@ Name : T-NESTS
 
 Welcome to the T-NESTS team's repository for the MLOps Marathon 2023! This repository contains the code and resources used for our participation in the event. Below, you will find an overview of the project, instructions for setting up and running the code, and information about our team members.
 
+
+## Support Documentation
+
+Please refer to the [support documentation](https://drive.google.com/drive/folders/1C4uMfeCq2fxYlebuJxm54LD2eDTn-Xk3?usp=sharing) for additional resources and guidance related to the MLOps Marathon 2023.
+
+
 ## Project Overview
 
 In the era of digital transformation, AI/ML is being increasingly applied by businesses to enhance data analysis capabilities and address business challenges quickly and efficiently. To expedite the model deployment process and maximize the reliability of AI/ML models, MLOps has emerged as a new set of standards for deploying and operating high-performance machine learning systems, including principles such as:
