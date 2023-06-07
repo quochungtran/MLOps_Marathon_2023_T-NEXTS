@@ -1,0 +1,28 @@
+{
+    "numeric_columns": [
+        "feature2",
+        "feature5",
+        "feature13",
+        "feature18"
+    ],
+    "category_columns": [
+        "feature1",
+        "feature3",
+        "feature4",
+        "feature6",
+        "feature7",
+        "feature8",
+        "feature9",
+        "feature10",
+        "feature11",
+        "feature12",
+        "feature14",
+        "feature15",
+        "feature16",
+        "feature17",
+        "feature19",
+        "feature20"
+    ],
+    "target_column": "label",
+    "ml_type": "classification"
+}

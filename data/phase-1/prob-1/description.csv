@@ -1,0 +1,7 @@
+Key,Value
+Source,MLOps
+Label,is Fraud (1) or Not (0)
+Train size,134201
+Test size,297945
+Description,"The ML problem at hand involves predicting fraudulent transactions in a financial dataset.
+The target variable is 'label', which is a binary variable indicating whether a transaction is fraudulent or not.
