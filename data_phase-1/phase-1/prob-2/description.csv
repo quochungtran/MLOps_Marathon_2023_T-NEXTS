@@ -1,0 +1,7 @@
+Key,Value
+Source,MLOps
+Label,Good (1) or Bad (0)
+Train size,60000
+Test size,40000
+Description,"The machine learning problem aims to predict credit risk and assist financial institutions in making informed lending decisions based on various features.
+Total train dataset with 60000 records and the test dataset with 40000 records."
